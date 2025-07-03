@@ -1,5 +1,5 @@
-Hi👋, I am Precious Obiorah<br/>
-## Get to Know Me
+## Hi👋, I am Precious <br/>
+
 ✍️ Data and information science student at Universtiy of Ibadan <br/>
 🧹 Enjoys data cleaning, visualization, and modelling <br/>
 📈 Excel and PowerBi expert <br/> 
