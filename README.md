@@ -1,13 +1,30 @@
-## Hi👋, I am Precious <br/>
+<!-- Profile Header -->
+<h1 align="center">Hi👋, I am Precious</h1>
+<h3 align="center">🚀 Excel and PowerBi Expert | CPD Certified Data Analyst & Business Intelligence Professional</h3>
 
-✍️ Data and information science student at Universtiy of Ibadan <br/>
-🧹 Enjoys data cleaning, visualization, and modelling <br/>
-📈 Excel and PowerBi expert <br/> 
-✨ Data Content Creator on (X)(https://x.com/Prithee_p)<br/>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/precious-obiorah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<a href="https://twitter.com/Prithee_p">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+</p>
+
+<!-- Section 1 -->
+## More About Me?
+```html
+✍️ Data and information science student at University of Ibadan 
+🧹 Enjoys data cleaning, visualization, and modelling 
+📈 Excel and PowerBi expert 
+✨ Data Content Creator on (X)
 💬 Ask me about any data-related stuff
 ⚡ Fun fact: Nature is my therapy
+```
+<!-- About Me Section -->
+## 👨‍💻 About My Career
 
-## about my career
+```html
 🌱 Currently learning: 
 - python 
 - Automation 
